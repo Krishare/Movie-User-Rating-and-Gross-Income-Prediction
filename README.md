@@ -2,10 +2,6 @@
 
 ## IMDB Movie Rating Prediction and Gross Income Prediction
 
-Project done by:
-- Arun Jaganathan - ajagana@ncsu.edu
-- Rachit Thirani - rthiran@ncsu.edu
-- Vivek Nadimpalli - vvnadimp@ncsu.edu
 
 #####A short description of the files:
 
